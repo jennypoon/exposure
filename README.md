@@ -1,6 +1,6 @@
 # Exposure
 
-Exposure, an open platform that allows freelance photographers and potential clients to connect. Exposure allows users to search images by keyword and navigate to the photographer's profile that fits their style. Photographers can customize their profile by uploading images to their portfolio, provide pricing and update their availability on the calendar. This was a collaborative project where I took part in both front and back end development and was completed in two weeks.
+Exposure, an open platform that allows freelance photographers and potential clients to connect. Exposure allows users to search images by keyword and navigate to the photographer's profile that fits their style. Photographers can customize their profile by uploading images to their portfolio, provide pricing and update their availability on the calendar. This was a collaborative project and was the winner of LHL People's Choice Award. 
 
 ## Getting Started
 
